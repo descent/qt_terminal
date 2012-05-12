@@ -6,7 +6,7 @@ TARGET		= qtermwidget
 
 CONFIG		+= qt debug_and_release warn_on build_all staticlib #dll
 
-QT += core gui
+QT += widgets
 
 MOC_DIR 	= ../.moc
 
