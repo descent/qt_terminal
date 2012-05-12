@@ -36,9 +36,6 @@
 ****************************************************************************/
 
 //! [0]
-#include <QtGui>
-#include <QActionGroup>
-#include <QMessageBox>
 #include <QtGlobal> // for qVersion()
 
 #include "main_window.h"

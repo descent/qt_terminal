@@ -1,10 +1,7 @@
 #ifndef MAIN_WINDOW_H
 #define MAIN_WINDOW_H
 
-#include <QMainWindow>
-//#include <QAction>
-//#include <QMenu>
-//#include <QMenu>
+#include <QtWidgets>
 
 #if 1
 //QT_BEGIN_NAMESPACE
