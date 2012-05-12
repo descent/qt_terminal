@@ -30,13 +30,12 @@
 #include <stdlib.h>
 
 // Qt
-#include <QtGui/QApplication>
-#include <QtCore/QByteRef>
-#include <QtCore/QDir>
-#include <QtCore/QFile>
-#include <QtCore/QRegExp>
-#include <QtCore/QStringList>
-#include <QtCore>
+#include <QApplication>
+#include <QByteRef>
+#include <QDir>
+#include <QFile>
+#include <QRegExp>
+#include <QStringList>
 
 #include "Pty.h"
 #include "TerminalDisplay.h"

@@ -26,22 +26,16 @@
 #include "TerminalDisplay.h"
 
 // Qt
-#include <QtGui/QApplication>
-#include <QtGui/QBoxLayout>
-#include <QtGui/QClipboard>
-#include <QtGui/QKeyEvent>
-#include <QtCore/QEvent>
-#include <QtCore/QTime>
-#include <QtCore/QFile>
-#include <QtGui/QGridLayout>
-#include <QtGui/QLabel>
-#include <QtGui/QLayout>
-#include <QtGui/QPainter>
-#include <QtGui/QPixmap>
-#include <QtGui/QScrollBar>
-#include <QtGui/QStyle>
-#include <QtCore>
-#include <QtGui>
+#include <QApplication>
+#include <QtWidgets>
+
+#include <QClipboard>
+#include <QKeyEvent>
+#include <QEvent>
+#include <QTime>
+#include <QFile>
+#include <QPainter>
+#include <QPixmap>
 
 #include "Filter.h"
 #include "konsole_wcwidth.h"

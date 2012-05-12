@@ -26,9 +26,9 @@
 #define SESSION_H
 
 // Qt
-#include <QtCore/QStringList>
-#include <QtCore>
-#include <QWidget>
+#include <QStringList>
+#include <QtWidgets>
+
 
 // Konsole
 #include "History.h"

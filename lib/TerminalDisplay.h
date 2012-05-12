@@ -24,9 +24,14 @@
 #define TERMINALDISPLAY_H
 
 // Qt
+#if 0
 #include <QtGui/QColor>
 #include <QtCore/QPointer>
 #include <QtGui/QWidget>
+#endif
+
+#include <QtWidgets>
+
 
 // Konsole
 #include "Filter.h"

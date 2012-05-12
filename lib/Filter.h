@@ -23,12 +23,12 @@
 #define FILTER_H
 
 // Qt
-#include <QtGui/QAction>
-#include <QtCore/QList>
-#include <QtCore/QObject>
-#include <QtCore/QStringList>
-#include <QtCore/QHash>
-#include <QtCore/QRegExp>
+#include <QAction>
+#include <QList>
+#include <QObject>
+#include <QStringList>
+#include <QHash>
+#include <QRegExp>
 
 // Local
 #include "Character.h"

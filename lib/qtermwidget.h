@@ -23,9 +23,9 @@
 #include "TerminalDisplay.h"
 //using namespace Konsole;
 //class TerminalDisplay;
-#include <QtGui>
 
-#include <QLineEdit>
+#include <QtWidgets>
+
 
 struct TermWidgetImpl;
 
