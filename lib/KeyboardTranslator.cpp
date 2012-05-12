@@ -896,8 +896,8 @@ bool KeyboardTranslatorManager::deleteTranslator(const QString& name)
         return false;
     }
 }
-K_GLOBAL_STATIC( KeyboardTranslatorManager , theKeyboardTranslatorManager )
+//K_GLOBAL_STATIC( KeyboardTranslatorManager , theKeyboardTranslatorManager )
 KeyboardTranslatorManager* KeyboardTranslatorManager::instance()
 {
-    return theKeyboardTranslatorManager;
+    //return theKeyboardTranslatorManager;
 }
